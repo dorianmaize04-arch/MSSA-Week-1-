@@ -1,0 +1,15 @@
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\bin\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.exe
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\bin\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.deps.json
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\bin\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.runtimeconfig.json
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\bin\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.dll
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\bin\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.pdb
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.AssemblyInfoInputs.cache
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.AssemblyInfo.cs
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.csproj.CoreCompileInputs.cache
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.dll
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\refint\Assignment 1.1.3 PLEASE WORK.dll
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.pdb
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\Assignment 1.1.3 PLEASE WORK.genruntimeconfig.cache
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\ref\Assignment 1.1.3 PLEASE WORK.dll
+C:\Users\doria\source\repos\Assignment 1.1.3 PLEASE WORK\obj\Debug\net10.0\Assignme.9751CA3F.Up2Date
