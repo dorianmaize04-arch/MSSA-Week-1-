@@ -1,0 +1,15 @@
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\bin\Debug\net10.0\ConsoleApp 1.3.1 revised.exe
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\bin\Debug\net10.0\ConsoleApp 1.3.1 revised.deps.json
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\bin\Debug\net10.0\ConsoleApp 1.3.1 revised.runtimeconfig.json
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\bin\Debug\net10.0\ConsoleApp 1.3.1 revised.dll
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\bin\Debug\net10.0\ConsoleApp 1.3.1 revised.pdb
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\ConsoleApp 1.3.1 revised.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\ConsoleApp 1.3.1 revised.AssemblyInfoInputs.cache
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\ConsoleApp 1.3.1 revised.AssemblyInfo.cs
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\ConsoleApp 1.3.1 revised.csproj.CoreCompileInputs.cache
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\ConsoleApp 1.3.1 revised.dll
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\refint\ConsoleApp 1.3.1 revised.dll
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\ConsoleApp 1.3.1 revised.pdb
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\ConsoleApp 1.3.1 revised.genruntimeconfig.cache
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\ref\ConsoleApp 1.3.1 revised.dll
+C:\Users\doria\source\repos\ConsoleApp 1.3.1 revised\obj\Debug\net10.0\ConsoleA.54CA93B0.Up2Date

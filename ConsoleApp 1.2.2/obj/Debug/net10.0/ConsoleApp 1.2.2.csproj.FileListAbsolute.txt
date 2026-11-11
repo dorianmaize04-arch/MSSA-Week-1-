@@ -1,0 +1,15 @@
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\bin\Debug\net10.0\ConsoleApp 1.2.2.exe
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\bin\Debug\net10.0\ConsoleApp 1.2.2.deps.json
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\bin\Debug\net10.0\ConsoleApp 1.2.2.runtimeconfig.json
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\bin\Debug\net10.0\ConsoleApp 1.2.2.dll
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\bin\Debug\net10.0\ConsoleApp 1.2.2.pdb
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\ConsoleApp 1.2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\ConsoleApp 1.2.2.AssemblyInfoInputs.cache
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\ConsoleApp 1.2.2.AssemblyInfo.cs
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\ConsoleApp 1.2.2.csproj.CoreCompileInputs.cache
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\ConsoleApp 1.2.2.dll
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\refint\ConsoleApp 1.2.2.dll
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\ConsoleApp 1.2.2.pdb
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\ConsoleApp 1.2.2.genruntimeconfig.cache
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\ref\ConsoleApp 1.2.2.dll
+C:\Users\doria\source\repos\ConsoleApp 1.2.2\obj\Debug\net10.0\ConsoleA.EFA63BCF.Up2Date
