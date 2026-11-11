@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\doria\\source\\repos\\ConsoleApp 1.3.1 revised\\ConsoleApp 1.3.1 revised.csproj",
+      "projectUniqueName": "C:\\Users\\doria\\MSSA Assignments\\MSSA Week 1\\ConsoleApp 1.3.1 revised\\ConsoleApp 1.3.1 revised.csproj",
       "projectName": "ConsoleApp 1.3.1 revised",
-      "projectPath": "C:\\Users\\doria\\source\\repos\\ConsoleApp 1.3.1 revised\\ConsoleApp 1.3.1 revised.csproj",
+      "projectPath": "C:\\Users\\doria\\MSSA Assignments\\MSSA Week 1\\ConsoleApp 1.3.1 revised\\ConsoleApp 1.3.1 revised.csproj",
       "packagesPath": "C:\\Users\\doria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\doria\\source\\repos\\ConsoleApp 1.3.1 revised\\obj\\",
+      "outputPath": "C:\\Users\\doria\\MSSA Assignments\\MSSA Week 1\\ConsoleApp 1.3.1 revised\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
